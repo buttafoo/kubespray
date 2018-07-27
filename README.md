@@ -9,6 +9,12 @@ With A Beautiful Laugh I will dance until I go mad
 Will there ever be a rainbow?
 =============================
 
+If I were in WWII, They'd call me 'Spitfire'
+============================================
+
+In time of chimpanzees I was a monkey
+=====================================
+
 Deploy a Production Ready Kubernetes Cluster
 ============================================
 
