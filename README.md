@@ -15,6 +15,9 @@ If I were in WWII, They'd call me 'Spitfire'
 In time of chimpanzees I was a monkey
 =====================================
 
+Sometimes, something, so broken, can never be fixed
+===================================================
+
 Deploy a Production Ready Kubernetes Cluster
 ============================================
 
