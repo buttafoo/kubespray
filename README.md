@@ -1,5 +1,8 @@
 ![Kubernetes Logo](https://raw.githubusercontent.com/kubernetes-incubator/kubespray/master/docs/img/kubernetes-logo.png)
 
+ROPO RULES!!!!!
+===============
+
 Deploy a Production Ready Kubernetes Cluster
 ============================================
 
