@@ -3,8 +3,8 @@
 ROPO RULES!!!!!
 ===============
 
-ROPO TOTALL RULES!!!!!
-======================
+With A Beautiful Laugh I will dance until I go mad
+==================================================
 
 Deploy a Production Ready Kubernetes Cluster
 ============================================
