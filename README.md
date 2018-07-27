@@ -3,6 +3,9 @@
 ROPO RULES!!!!!
 ===============
 
+ROPO TOTALL RULES!!!!!
+======================
+
 Deploy a Production Ready Kubernetes Cluster
 ============================================
 
