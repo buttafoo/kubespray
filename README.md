@@ -6,6 +6,9 @@ ROPO RULES!!!!!
 With A Beautiful Laugh I will dance until I go mad
 ==================================================
 
+Will there ever be a rainbow?
+=============================
+
 Deploy a Production Ready Kubernetes Cluster
 ============================================
 
